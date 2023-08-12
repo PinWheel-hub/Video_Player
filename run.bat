@@ -1,0 +1,1 @@
+start cmd /k "conda activate mmdet-2.26.0 && D: && cd D:\wbw\VideoPlayer && python py_player_demo.py"
